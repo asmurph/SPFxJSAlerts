@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SpFxJsAlerts"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="9cea017c-5364-43f9-94ad-6e87eab0841e"
+        Properties="{&quot;animationType&quot;:&quot;bounceInRight&quot;,&quot;animationDelay&quot;:&quot;3000&quot;,&quot;alertBackgroundColor&quot;:&quot;blue&quot;}"
+        HostProperties="{&quot;preAllocatedApplicationCustomizerTopHeight&quot;:&quot;35&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

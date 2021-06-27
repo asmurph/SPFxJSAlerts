@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-js-alerts-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/spFxJsAlerts/SpFxJsAlertsApplicationCustomizer.js",
+          "manifest": "./src/extensions/spFxJsAlerts/SpFxJsAlertsApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFxJsAlertsApplicationCustomizerStrings": "lib/extensions/spFxJsAlerts/loc/{locale}.js"
+  }
+}
